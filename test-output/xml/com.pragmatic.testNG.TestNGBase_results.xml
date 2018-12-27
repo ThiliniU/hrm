@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test1"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.008">
+  <properties />
+  
+  
+            <testcase name="beforeSuite" time="0.000" classname="com.pragmatic.testNG.TestNGBase" />
+                <testcase name="afterSuite" time="0.008" classname="com.pragmatic.testNG.TestNGBase" />
+      
+</testsuite>
